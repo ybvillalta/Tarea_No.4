@@ -233,4 +233,4 @@ transferencia de potencia máxima en el circuito de la figura 8-86?
 - Con el teorema de Norton nos sirvio para obtener cálculos eficientes de nodos, así como la prueba efectiva por componente de redes y circuitos mixtos.
 - Con el teorema de Thevenin hemos comprobado que realiza una simplificacion notoria en un circuito complejo, cabe recalcar que este teorema debe ser correcto aplicado en un circuito donde se encuentre una fuente de voltaje y esta a la vez este en serie con una resistencia, llamada posteriormente como resistencia de Thevenin.
 6. BIBLIOGRAFIA
-- https://youtu.be/Bjkko2blddo
+- Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
