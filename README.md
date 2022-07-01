@@ -1,13 +1,13 @@
-OBJETIVO GENERAL
-En el siguiente informe se presentaran la implementaran temas complementarios para la resolucion de circuitos como el teorema de superposicion, teorema de Thevenin, teorema de Norton, teorema de potencia maxima, resolucion de delta a Y y de Y a delta, sin embargo, estos no sustituyen a la Ley de Ohm ni a las Leyes de Kirchhoff, unicamente sirven para simplificar un circuito simple o complejo. 
-OBJETIVO ESPECIFICO
+1. OBJETIVO GENERAL
+- En el siguiente informe se presentaran la implementaran temas complementarios para la resolucion de circuitos como el teorema de superposicion, teorema de Thevenin, teorema de Norton, teorema de potencia maxima, resolucion de delta a Y y de Y a delta, sin embargo, estos no sustituyen a la Ley de Ohm ni a las Leyes de Kirchhoff, unicamente sirven para simplificar un circuito simple o complejo. 
+- OBJETIVO ESPECIFICO
 - Aplicar teorema de superposición al análisis de circuitos.
 - Aplicar el teorema de Thevenin para simplificar un circuito.
 - Aplicar el teorema de Norton para simplificar un circuito.
 - Aplicar el teorema de transferencia de potencia máxima.
 - Realizar conversiones de delta a Y y Y a delta
-MARCO TEORICO(RESUMEN)
-RESOLUCION DE EJERCICIOS
+2. MARCO TEORICO(RESUMEN)
+3. RESOLUCION DE EJERCICIOS
 - SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
@@ -189,3 +189,17 @@ transferencia de potencia máxima en el circuito de la figura 8-86?
 - ![image](https://user-images.githubusercontent.com/105893980/176815525-0b9a79ce-bce1-40ef-b6da-5c26d33510f2.png)
 - SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 34. En la figura 8-88, convierta cada red delta en una red Y.
+- ![image](https://user-images.githubusercontent.com/105893980/176819031-0a3e8bfa-fad2-4339-af34-014a726714da.png)
+- ![image](https://user-images.githubusercontent.com/105893980/176819057-52905333-1085-479c-8e09-556387224590.png)
+- ![image](https://user-images.githubusercontent.com/105893980/176819079-15019811-3d86-4212-b15f-98922e53da6f.png)
+- ![image](https://user-images.githubusercontent.com/105893980/176819091-2eeadcc1-dbed-414f-ae40-89aff430ecdc.png)
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+- ![image](https://user-images.githubusercontent.com/105893980/176819270-d8048e11-0841-478e-b89c-018b8da82755.png)
+- ![image](https://user-images.githubusercontent.com/105893980/176819245-3bde1f26-b2f0-4d64-9729-dc320704d126.png)
+- ![image](https://user-images.githubusercontent.com/105893980/176819331-655c8cd5-d0b4-49a0-bfc4-dab0875a3643.png)
+4. VIDEOS
+5. CONCLUSIONES
+-  El uso de Thevenin o Norton en circuito complejos puede ser de gran utilidad para disminuir su complejidad.
+- Con el teorema de Norton nos sirvio para obtener cálculos eficientes de nodos, así como la prueba efectiva por componente de redes y circuitos mixtos.
+- Con el teorema de Thevenin hemos comprobado que realiza una simplificacion notoria en un circuito complejo, cabe recalcar que este teorema debe ser correcto aplicado en un circuito donde se encuentre una fuente de voltaje y esta a la vez este en serie con una resistencia, llamada posteriormente como resistencia de Thevenin.
+6. BIBLIOGRAFIA
